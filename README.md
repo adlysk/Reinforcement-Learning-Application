@@ -1,0 +1,2 @@
+# Reinforcement-Learning-Application
+This project was my first time using Reinforcement Learning. It was done as a part of machine learning course during my studies. In this project I have built simple 2048 game environment and tried to make reinforcement learning agents learn how to play it. For this purpose I have built Q-Learning and Deep-Q-Learning agents. After that I have tested both agent's performances in Cart-Pole game.
